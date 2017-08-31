@@ -1,1 +1,5 @@
 https://github.com/drigg3r/Sipher-PHP-Ransomware
+https://github.com/h4ckzu5/Ransomware
+https://github.com/Deffy0h/ransomware-shell
+https://github.com/materaj/heimdall-ransomware
+https://github.com/Deffy0h/ransomware-shell/
